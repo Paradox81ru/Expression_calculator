@@ -1,0 +1,6 @@
+from typing import Final
+
+NUMBER: Final = "NUMBER"
+SIGN: Final = "SIGN"
+PARENTHESIS: Final = "PARENTHESIS"
+PARENTHESIS_CLOSE: Final = "PARENTHESIS_CLOSE"
